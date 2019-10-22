@@ -1,0 +1,7 @@
+gender: working, no cleanup done (commented out)
+email: not done
+profession: working, no cleanup done (commented out)
+location: working, but not the most efficient design, no cleanup done (commented out)
+status: working, no cleanup done (commented out)
+interests: working, but not properly designed, no cleanup done (commented out)
+seeking: working, but not properly designed, no cleanup done (commented out)
